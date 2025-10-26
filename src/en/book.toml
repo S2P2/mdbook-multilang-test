@@ -1,0 +1,8 @@
+[book]
+authors = ["Sathianphong Phongsathian"]
+language = "en"
+src = "."
+title = "Multilang test"
+
+[output.html]
+site-url = "/mdbook-multilang-test/"
